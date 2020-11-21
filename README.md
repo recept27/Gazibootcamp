@@ -1,1 +1,2 @@
 # Gazibootcamp
+hocam olmuyor :)
